@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: e6cac46af92980b4a94ad53104ce1d84
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Torus001_MeshPart0
+    100004: Torus001_MeshPart1
+    100006: Torus001_MeshPart2
+    100008: Torus001_MeshPart3
+    100010: Torus001_MeshPart4
+    400000: //RootNode
+    400002: Torus001_MeshPart0
+    400004: Torus001_MeshPart1
+    400006: Torus001_MeshPart2
+    400008: Torus001_MeshPart3
+    400010: Torus001_MeshPart4
+    2300000: Torus001_MeshPart0
+    2300002: Torus001_MeshPart1
+    2300004: Torus001_MeshPart2
+    2300006: Torus001_MeshPart3
+    2300008: Torus001_MeshPart4
+    3300000: Torus001_MeshPart0
+    3300002: Torus001_MeshPart1
+    3300004: Torus001_MeshPart2
+    3300006: Torus001_MeshPart3
+    3300008: Torus001_MeshPart4
+    4300000: Torus001_MeshPart0
+    4300002: Torus001_MeshPart1
+    4300004: Torus001_MeshPart2
+    4300006: Torus001_MeshPart3
+    4300008: Torus001_MeshPart4
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: diamond
+    second: {fileID: 2100000, guid: ad8b26accf915004898d53678db1fe63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: golden
+    second: {fileID: 2100000, guid: f3b51813e1af4e24bb86afcbb53881a4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+Metal cubicmap Volume 1 
+=======================
+
+Simple solution :
+******************
+- Simply drag and drop materials in Cubicmap on your 3d model
+- Adjust the material parameters
+
+Advance solution :
+*******************
+- Create your own material with cubicmap support
+- Choose a cubicmap from _cubmap folder
+- Drag and drop your materials on your 3d model
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
