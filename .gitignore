@@ -36,4 +36,4 @@ sysinfo.txt
 *.unitypackage
 
 .DS_Store
-Assets/OpenCVforUnity
+Assets/OpenCVForUnity/
